@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Calculadora de Resistencias</string>
+    <string name="app_name">Resistor Color Code</string>
+    <string name="calculadora">Calculadora de Resistencias</string>
+    <string name="img">imagen</string>
+    <string name="firstsecond">Primera banda:</string>
+    <string name="second">Segunda banda:</string>
+    <string name="third">Banda multiplicadora:</string>
+    <string name="fourth">Banda de tolerancia:</string>
+    <string name="finalvalue">Valor de la resistencia</string>
+    <string name="resis" />
+    <string name="save">Guardar</string>
+    <string name="select">Debe escoger una opción</string>
+    <string name="selectt">No hay valor</string>
+    <string name="tole">Debe escoger una opción de banda de tolerancia</string>
+    <string name="multi">Debe escoger una opción de banda multiplicadora</string>
+    <string name="second1">Debe escoger una opción de la segunda banda</string>
+    <string name="first">Debe selccionar una opción de primera banda</string>
+    <string name="api">calculadora de resistencias</string>
 </resources>
